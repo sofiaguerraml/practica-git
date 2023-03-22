@@ -1,1 +1,2 @@
 ejemplo de archivo de texto
+Cambio de conflicto
